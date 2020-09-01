@@ -4,10 +4,23 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 - "Inteligência Artificial, Ben Coppin, LTC – Livros Técnicos e Científicos Editora S.A, 2010".
 
 ## Dependências
+
+- Python 3.7.3;
 - PyCharm IDE;
-- Python 3.7.3.
+- NumPy;
+- Matplotlib.
+
+## Instalações
+
+```bash
+$ pip install numpy
+```
+```bash
+$ pip install matplotlib
+```
 
 ## Execução
+
 1. Baixe o Zip;
 2. Extraia o contéudo;
 3. Abrir em PyCharm IDE;
