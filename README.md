@@ -12,8 +12,8 @@ Trabalho referente a disciplina de Inteligência Computacional, na qual consiste
 2. Extraia o contéudo;
 3. Abrir em PyCharm IDE;
 4. Execute os arquivos 
-  - questao01.py em *regressao_linear/Questão01/questao01.py*
-  - questao02.py em *regressao_linear/Questão02/questao02.py*
+    - questao01.py em *regressao_linear/Questão01/questao01.py*
+    - questao02.py em *regressao_linear/Questão02/questao02.py*
 
 ## Sobre o projeto
 
